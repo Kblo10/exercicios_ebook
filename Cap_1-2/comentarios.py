@@ -1,0 +1,1 @@
+print("A prática leva à perfeição.") #Esta frase é muito motivadora
